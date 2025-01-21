@@ -1,5 +1,6 @@
 import Image from "next/image";
 import { client } from "@/lib/sanity";
+import { ExperiencesCard } from "@/lib/interface";
 
 function formatDate(dateString: string) {
   if (!dateString) return 'Present';

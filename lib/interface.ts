@@ -1,4 +1,4 @@
-interface ProjectsCard {
+export interface ProjectsCard {
     title: string;
     _id: string;
     imageUrl: string;
@@ -7,7 +7,7 @@ interface ProjectsCard {
     link: string;
 };
 
-interface ExperiencesCard {
+export interface ExperiencesCard {
     _id: string;
     companyName: string;
     companyUrl: string;
