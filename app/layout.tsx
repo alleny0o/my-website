@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     siteName: "Allen Yoo's Portfolio",
     images: [
       {
-        url: "/image-favicon.png",
+        url: "https://allen-yoo.com/image-favicon.png",
         width: 512,
         height: 512,
         alt: "Allen Yoo's Portfolio Thumbnail",
