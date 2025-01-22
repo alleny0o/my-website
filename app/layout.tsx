@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Allen Yoo | Computer Science Student",
+  title: "Allen Yoo",
   description: "Computer Science student passionate about software development. Explore my portfolio featuring academic projects, coding experiments, and software engineering work.",
   keywords: [
     "Allen Yoo",
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Allen Yoo" }],
   openGraph: {
-    title: "Allen Yoo | Computer Science Student",
+    title: "Allen Yoo",
     description: "Computer Science student passionate about software development. Explore my portfolio featuring academic projects, coding experiments, and software engineering work.",
     type: "website",
     siteName: "Allen Yoo's Portfolio",
