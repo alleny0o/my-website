@@ -32,6 +32,14 @@ export const metadata: Metadata = {
     description: "Computer Science student passionate about software development. Explore my portfolio featuring academic projects, coding experiments, and software engineering work.",
     type: "website",
     siteName: "Allen Yoo's Portfolio",
+    images: [
+      {
+        url: "/image-favicon.png",
+        width: 512,
+        height: 512,
+        alt: "Allen Yoo's Portfolio Thumbnail",
+      },
+    ],
   },
   robots: {
     index: true,
